@@ -1,0 +1,19 @@
+{
+  "name": "whoami",
+  "version": "1.0.0",
+  "description": "",
+  "main": "whoami.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanehughes3/whoami.git"
+  },
+  "author": "Shane Hughes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanehughes3/whoami/issues"
+  },
+  "homepage": "https://github.com/shanehughes3/whoami#readme"
+}
